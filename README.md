@@ -7,3 +7,6 @@
 
 ### QueryIP.alfredworkflow
 可以查看本机的内网ip和外网ip
+
+### Youdao.alfredworkflow
+https://github.com/whyliam/whyliam.workflows.youdao
